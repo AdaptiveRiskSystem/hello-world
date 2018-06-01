@@ -7,3 +7,4 @@ Newly added line
 
 This is a branch test-hello-world
 
+second merge
